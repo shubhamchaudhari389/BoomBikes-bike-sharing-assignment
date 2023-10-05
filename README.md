@@ -26,7 +26,7 @@ You are required to model the demand for shared bikes with the available indepen
 
 ![image](https://user-images.githubusercontent.com/94171996/229470317-1fa462ee-f089-41e1-9731-0fdf98e9f85c.png)
 
-Detailed attribute info [here](https://raw.githubusercontent.com/shinde-chandrakant/BoomBikes-bike-sharing-assignment/master/Feature%2BAttributes.txt).
+Detailed attribute info [here](https://github.com/shubhamchaudhari389/BoomBikes-bike-sharing-assignment/blob/master/Readme.txt).
 
 - The graph clearly shows the qualitative distributions of the data, now if the model suggests the important predictors, using these graphs we can be more confident about the predictions of the model.
 - For the variable season, we can clearly see that the category 3 : Fall, has the highest median, which shows that the demand was high during this season. It is least for 1: spring .
